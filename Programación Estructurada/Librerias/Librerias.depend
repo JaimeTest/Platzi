@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1643242710 source:c:\users\garciaj\onedrive - aspen technology, inc\documents\courses\platzi\programación estructurada\librerias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1643242361 c:\users\garciaj\onedrive - aspen technology, inc\documents\courses\platzi\programación estructurada\librerias\operaciones.h
+

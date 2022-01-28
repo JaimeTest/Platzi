@@ -1,0 +1,30 @@
+*
+{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.box
+{
+  font-size: 16px;
+  background-color: rgb(218, 207, 207);
+  border-radius: 30px;
+  padding: 5%;
+  border: 2px rgba(0, 0, 0, 0.353) solid;
+  width: 35vw;
+  margin: 150px auto;
+}
+
+#title
+{
+  background-color: red;
+  text-align: center;
+  border-radius: 15px;
+  width: 20vw;
+  position: relative;
+  bottom: 450px;
+  padding: 25px;
+}

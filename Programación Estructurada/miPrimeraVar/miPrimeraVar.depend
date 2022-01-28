@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643231361 source:c:\users\garciaj\onedrive - aspen technology, inc\documents\courses\platzi\programación estructurada\miprimeravar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
