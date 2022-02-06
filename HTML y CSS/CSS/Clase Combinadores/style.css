@@ -1,0 +1,19 @@
+/* h2 + p
+{
+    background-color: red;
+} */
+
+/* h2 ~ p
+{
+    background-color: red;
+} */
+
+/* div > p
+{
+    background-color: red;
+} */
+
+div  p
+{
+    background-color: red;
+}
