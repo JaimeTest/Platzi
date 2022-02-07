@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.parent {
+    display: inline-block;
+    width: 500px;
+    height: 600px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    border: 2px grey solid;
+    border-radius: 30px;
+    background-color: #8c8c60;
+    height: 250px;
+    text-align: center;
+    }
+    
+    .box {
+        margin: auto;
+    }
+    
+    #titulo {
+        position: relative;
+        border: 2px gray solid;
+        border-radius: 10px;
+        background-color: rgb(196, 213, 161);
+        width: 150px;
+        height: 30px;
+        text-align: center;
+        bottom: 15px;
+    }
+
+
+    .texto {
+        position: relative;
+        height: 250px;
+        width: 350px;
+        text-align: center;
+        margin: auto;
+        top: 70px;
+    }
