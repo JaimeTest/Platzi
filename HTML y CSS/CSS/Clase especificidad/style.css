@@ -11,10 +11,6 @@ h1
     margin-bottom: 10px;
 }
 
-#page-title
-{
-    font-family: Arial, Helvetica, sans-serif;
-}
 
 .title
 {
@@ -22,23 +18,28 @@ h1
     font-family: monospace;
 }
 
-#main-nav
+.nav
 {
     margin-top: 10px;
     list-style-type: none;
     padding-left: 0;
 }
 
-#main-nav li
+.nav li
 {
     display: inline-block;
 }
 
-#main-nav a
+.nav a
 {
     color: white;
     background-color: #13a4a4;
     padding: 5px;
     border-radius: 2px;
     text-decoration: none;
+}
+
+.nav .blog
+{
+    background-color: red;
 }
